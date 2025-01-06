@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khashayarmehdizadeh
-- 👀 I’m interested in software development, open source projects, and artificial intelligence.
-- 🌱 I’m currently learning JavaEE and microservices architecture.
+- 👀 I’m interested in software development, open source projects, and artificial intelligence
+- 🌱 I’m currently learning php , java script and microservices architecture.
 - 💞️ I’m looking to collaborate on open source Java projects, AI research, and software development teams.
 - 📫 How to reach me: **You can reach me via email at mzkhashayar@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/khashayarmehdizadeh)
 - 😄 Pronouns: He
